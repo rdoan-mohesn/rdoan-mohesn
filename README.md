@@ -1,8 +1,7 @@
 # Hi there, I'm Radwan Mohsen 👋
 
 <div align="center">
-  <!-- يمكنك تغيير رابط الصورة هنا لتضع غلافاً خاصاً بك أو إزالتها إذا لم تملك غلافاً جاهزاً -->
-  <img width="100%" src="https://github.com" alt="cover" />
+  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
 </div>
 
 <table>
@@ -18,7 +17,7 @@
     <tr>
       <td align="center">
         <!-- هنا يمكنك وضع صورة تجمع مهاراتك أو استخدام شارات (Badges) لاحقاً -->
-        <img width="70%" src="https://github.com" alt="Frontend Skills" />
+       <img align="center" src="https://api.githubtrends.io/user/svg/oussamabouchikhi/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
       </td>
     </tr>
   </tbody>
