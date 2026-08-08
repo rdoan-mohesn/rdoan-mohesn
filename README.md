@@ -1,131 +1,94 @@
+# Hi there, I'm Oussama 👋
+
 <div align="center">
-
-  <!-- PROJECT BADGES -->
-  <p>
-    <img src="https://shields.io" alt="React" />
-    <img src="https://shields.io" alt="Vite" />
-    <img src="https://shields.io" alt="TypeScript" />
-    <img src="https://shields.io" alt="CSS3" />
-  </p>
-
-  <!-- PROJECT TITLE -->
-  <h1>🚀 Advanced Production-Ready Frontend Application</h1>
-
-  <p>
-    A high-performance, type-safe web application built on top of modern frontend architectures. Focused on accessibility, speed, and exceptional user experience.
-  </p>
-
-  <!-- LIVE DEMO BUTTONS -->
-  <h4>
-    <a href="https://your-live-demo-link.com">🌐 View Live Demo</a>
-    <span> · </span>
-    <a href="https://github.com">🐛 Report Bug</a>
-    <span> · </span>
-    <a href="https://github.com">💡 Request Feature</a>
-  </h4>
+  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
 </div>
 
-<br />
 
-<!-- SCREENSHOT / BANNER SECTION -->
-<!-- Pro-Tip: Upload your screenshot to your GitHub repository under an 'assets' folder and link it relatively like below -->
-<div align="center">
-  <img src="assets/preview.png" alt="Application Dashboard Preview" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+<table>
+  <thead>
+    <tr>
+      <td align="center">
+        <span><strong>Programming Languages & Frameworks</strong></span>
+      </td>
+    </tr>
+  </thead>
+  <br /><br />
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
+      </td>
+    </tr>
+  </tbody>
+  
+</table>
 </div>
 
----
+<br /><br />
 
-## ⚡ Core Architecture & Engineering Highlights
+## About me
+I am Oussama Bouchikhi from Algeria, I graduated with a Bachelor's degree in computer science. I am a Backend developer and a Cloud enthusiast.  
+My prefered stack is Javascript and Typescript (Nodejs/Nestjs).
+I always want to learn new things.
 
-*   **Strict Type-Safety:** Integrated TypeScript compile-time checks with zero `any` types for predictable data flow.
-*   **Next-Gen Bundling:** Powered by Vite to ensure sub-second Hot Module Replacement (HMR) and optimized production chunks.
-*   **State & Component Lifecycle:** Utilizes advanced React hooks, custom hooks, and memoization (`useMemo`, `useCallback`) to avoid redundant re-renders.
-*   **Semantic UI/UX:** Built with fully semantic HTML5 structures to support native SEO practices and screen readers (ARIA compliance).
-*   **Fluid Responsive Design:** Pure CSS layouts using modern custom properties (CSS variables), Grid, and Flexbox engines without bloated framework dependencies.
+<br /><br />
 
----
+## My Github stats
 
-## 🛠 Detailed Tech Stack
+<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">
+  <img align="center" src="https://api.githubtrends.io/user/svg/oussamabouchikhi/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabouchikhi&hide=python,tcl&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&theme=tokyonight&line_height=27&icon_color=4194FD&langs_count=3" /> -->
+</a>
+<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabouchikhi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="oussamabouchikhi's github stats"/>
+</a>
 
-| Layer | Technology | Purpose |
-| :--- | :--- | :--- |
-| **Framework & Engine** | React 18+ (TSX) | Declarative UI component tree lifecycle management. |
-| **Build & Tooling** | Vite + ESBuild | Ultra-fast local compilation and asset minification. |
-| **Typing** | TypeScript 5+ | Static analysis, interfaces, and strict prop definitions. |
-| **Styles** | Custom CSS3 Architecture | Scoped modular styles with CSS Variables for theme control. |
+<p>
+  <b>For more Github info </b>
+  <a href="https://gitprofilee.netlify.app/user?id=oussamabouchikhi">check this</a>
+</p>
 
----
+<br /><br />
 
-## 🚀 Local Development Setup
+## My Badges
+[![@oussamabouchikhi's Holopin board](https://holopin.io/api/user/board?user=oussamabouchikhi)](https://www.holopin.io/@oussamabouchikhi)
 
-Follow these production installation guidelines to run the ecosystem locally.
+<br /><br />
 
-### 📋 Prerequisites
-Verify your environment runtime satisfies the engine requirements:
-*   **Node.js:** `v18.x` or higher (LTS recommended)
-*   **Package Manager:** `npm v9.x`+ or `yarn` / `pnpm`
 
-### 🔧 Installation Sequence
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ousstheboss)
 
-1. Clone the repository down to your local machine:
-   ```bash
-   git clone https://github.com
-   ```
 
-2. Shift your working directory into the project root:
-   ```bash
-   cd your-repo-name
-   ```
+<h2><i>Follow me:</i></h2>
+<div  align="center">
 
-3. Install the node ecosystem dependency packages:
-   ```bash
-   npm install
-   ```
+  <a href="https://www.linkedin.com/in/oussama-bouchikhi-49a0b6193/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/ousstheboss/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/oussama.bouchikhi.98" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
+  </a>
 
-4. Spin up the localized development server environment:
-   ```bash
-   npm run dev
-   ```
-   *The application will boot live locally at: `http://localhost:5173`*
+ <a href="https://twitter.com/oussth3boss/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
+  </a>
+   <a href="mailto:oussamabouchikhi700@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
+  <a href="https://www.freelancer.com/u/oussamabouchikhi" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01f42213ee8a3771ac" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
+  </a>
+<a href="https://www.fiverr.com/oussama700" target="_blank">
+    <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiver">
+  </a>
+</div>
 
----
 
-## 🏗 Modular Folder Organization
-```text
-src/
-├── assets/          # Static assets (images, global vectors, icons)
-├── components/      # Global, atomic reusable UI modules (Buttons, Cards, Inputs)
-├── hooks/           # Isolated custom React hooks for decoupled business logic
-├── layouts/         # Application page layout wrappers (Header, Footer, Sidebars)
-├── views/           # Primary page views / routing entry points
-├── types/           # Global TypeScript interfaces and type definitions
-├── App.tsx          # Main root component application bootstrap
-└── main.tsx         # Virtual DOM mounting point
-```
 
----
-
-## 🤝 Contribution Workflow
-
-1. **Fork** the repository asset.
-2. Initialize your specialized local feature branch:
-   ```bash
-   git checkout -b feature/OptimizationFeature
-   ```
-3. Commit structural updates following atomic convention rules:
-   ```bash
-   git commit -m 'feat: implement high-performance list virtualization'
-   ```
-4. Push updates to your origin branch stack:
-   ```bash
-   git push origin feature/OptimizationFeature
-   ```
-5. File a formal **Pull Request** detailing changes for structural review.
-
----
-
-## 📄 Licensing & Contacts
-
-*   **Project License:** Distributed under the open-source MIT License terms.
-*   **Developer Name:** Your Full Name
-*   **Professional Identity:** [LinkedIn Profile](https://linkedin.com) | [Portfolio Site](https://yourportfolio.com) | contact.email@domain.com
