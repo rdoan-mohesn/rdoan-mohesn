@@ -4,7 +4,7 @@
   <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
 </div>
 
-<table color="red">
+<table>
   <thead>
     <tr>
       <td align="center">
@@ -42,7 +42,7 @@ My preferred stack includes HTML5, CSS3, JavaScript, and modern frontend framewo
 
 <br /><br />
 
-<h2><i>Follow me:</i></h2>
+<h2  color="red"><i>Follow me:</i></h2>
 <div align="center">
 
   <!-- استبدل الرابط أدناه برابط حسابك على لينكد إن -->
